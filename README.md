@@ -29,3 +29,10 @@ We're working on some other features for making development here a lot easier, w
 - Making full fledged flutter application
 - Rewarding with something more than just NFTs
 
+
+Hash tracks for blocks in sharedum, ethereum and polygon:
+
+polygon : 0xdfE4B3d4966f0145297Ac53D86a213Af2870f53d
+sharedum : 0x63a75F22C52167809Ec454083a13aA9Df6Cc66a3
+ethereum : 0x7e910fd61f38c4dba7b0ce81f0739510009e7cf5764f76a3800cc3bacc9708a2
+
