@@ -29,10 +29,3 @@ We're working on some other features for making development here a lot easier, w
 - Making full fledged flutter application
 - Rewarding with something more than just NFTs
 
-## Feedback
-
-Please leave any comments on this repl's [spotlight page here](https://replit.com/@replit/Solidity-starter-beta?v=1).
-
-The UI is subject to change (and still needs some real responsive work), so we'd appreciate any feedback there. 
-
-We're also trying to improve the overall dev experience, especially for beginners, so any feedback there is appreciated. 
